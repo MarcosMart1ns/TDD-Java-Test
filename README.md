@@ -1,1 +1,1 @@
-Aplicação construída para aprendizado de TDD em Java.
+Aplicação construída para testes e aprendizado de TDD em Java.
